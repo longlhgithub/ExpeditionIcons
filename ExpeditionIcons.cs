@@ -440,8 +440,6 @@ namespace ExpeditionIcons
 
                         var text = "RARE";
 
-                        artifacts.Add(e);
-
                         //if (modelPath == null) continue;
                         //text = text && modelPath.Substring(0, modelPath.IndexOf("."));
 
